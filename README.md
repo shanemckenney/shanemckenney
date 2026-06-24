@@ -4,7 +4,7 @@
 
 **Retired U.S. Army SFC · Cybersecurity Instructor · Developer · Veteran Mentor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shane%20McKenney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanemckenney)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shane%20McKenney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-mckenney)
 [![Portfolio](https://img.shields.io/badge/GitHub%20Pages-Live%20Tools-00e5ff?style=flat&logo=github&logoColor=white)](https://shanemckenney.github.io)
 
 </div>
