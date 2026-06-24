@@ -1,6 +1,15 @@
+<div align="center">
+
 # Shane McKenney
 
 **Retired U.S. Army SFC · Cybersecurity Instructor · Developer · Veteran Mentor**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shane%20McKenney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanemckenney)
+[![Portfolio](https://img.shields.io/badge/GitHub%20Pages-Live%20Tools-00e5ff?style=flat&logo=github&logoColor=white)](https://shanemckenney.github.io)
+
+</div>
+
+---
 
 I spent 20 years in the Army — most of it in JAG, much of it in national security law, legal planning, and senior leadership — retired as a Sergeant First Class. Now I teach cybersecurity and IT at MyComputerCareer, where I help career changers, veterans, and people fighting imposter syndrome break into the field through practical labs, accountability, and the belief that discipline plus repetition beats raw talent every time.
 
@@ -62,6 +71,8 @@ At **MyComputerCareer** I teach and mentor students through:
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-E20000?style=flat&logo=comptia&logoColor=white)
 ![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cyber Secure Dev](https://img.shields.io/badge/CertNexus-Cyber%20Secure%20Dev-0057A8?style=flat&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 *Currently working toward: SecAI+ · CCNA · CEH*
 
@@ -88,28 +99,13 @@ I focus especially on students coming from nontraditional backgrounds — vetera
 
 ## GitHub Stats
 
+<div align="center">
+
 ![Shane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanemckenney&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=e2e8f0)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanemckenney&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=e2e8f0)
 
+</div>
+
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shane%20McKenney-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanemckenney)
-
 *If you're a veteran trying to break into cybersecurity, a student who needs a resource, or an instructor who wants to steal something from this repo for your own class — reach out. That's what it's here for.*
-
-<!--
-**shanemckenney/shanemckenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
